@@ -56,7 +56,7 @@ $counts = [
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>User Dashboard - Perpustakaan</title>
+    <title>User Dashboard - Jihan Bau</title>
     <link rel="stylesheet" href="../assets/style.css">
     <style>
         /* CSS untuk kartu tugas */
